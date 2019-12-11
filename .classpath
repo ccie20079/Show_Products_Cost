@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web;#system#"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_79"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/asm.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/asm-commons-3.3.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/asm-tree-3.3.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/c3p0-0.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/ehcache-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/freemarker-2.3.19.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/gson-1.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/jstl-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/jta.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/mysql-connector-java-3.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/ognl-3.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/persistence.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/struts2-core-2.3.16.3.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/xwork-core-2.3.16.3.jar"/>
+	<classpathentry kind="lib" path="D:/Web_App_Lib/pinyin4j-2.5.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
